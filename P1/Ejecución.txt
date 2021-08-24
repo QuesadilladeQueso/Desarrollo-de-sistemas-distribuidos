@@ -1,0 +1,4 @@
+Para poder correr el programa se tiene que ejecutar "simbolos de sistema" en modo admistrador
+el .jar que se encuentra dentro de la carpeta cliente dentro de dist, como java -jar cliente.jar
+
+El servidor se peude correr desde una IDE, este se encuentra dentro de la carpeta Server_cliete

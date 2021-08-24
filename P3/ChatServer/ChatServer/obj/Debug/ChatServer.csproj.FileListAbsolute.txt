@@ -1,0 +1,8 @@
+D:\Escuela\8\Distribuidos\Practicas\P3\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Escuela\8\Distribuidos\Practicas\P3\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Escuela\8\Distribuidos\Practicas\P3\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\Escuela\8\Distribuidos\Practicas\P3\ChatServer\ChatServer\obj\Debug\ChatServer.Server.resources
+D:\Escuela\8\Distribuidos\Practicas\P3\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+D:\Escuela\8\Distribuidos\Practicas\P3\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Escuela\8\Distribuidos\Practicas\P3\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Escuela\8\Distribuidos\Practicas\P3\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
